@@ -2,10 +2,10 @@
 *카카오테크 부트캠프 해커톤 프로젝트!*
 
 ### 참여
-|**BE gray.chang(장예훈)** / 팀장|**FE eden.lee(이윤주)**|**CL jacky.kim(김현식)**|
+|**BE gray.chang(장예훈)** / 팀장|**FE eden.lee(이윤주)**|**Cloud jacky.kim(김현식)**|
 |:-:|:-:|:-:|
 |https://github.com/yhyh4420|https://github.com/Yunju07|https://github.com/Mr-Muji|
-|**AI lydia.han(한유정)**|**AI vicky.park(박효빈)**|**CL jenny.moon(문재희)**|
+|**AI lydia.han(한유정)**|**AI vicky.park(박효빈)**|**Cloud jenny.moon(문재희)**|
 |https://github.com/Lydia-YJ|https://github.com/PHBeen|https://github.com/Heestroy-118|
 
 <!--
