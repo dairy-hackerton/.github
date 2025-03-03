@@ -11,7 +11,7 @@
 
 ## Skills
 
-### BE
+### 🖥️ Back-end
 
 <img src="https://img.shields.io/badge/springboot-{뱃지색깔}?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=springboot&logoColor=white"/>
 
