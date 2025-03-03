@@ -12,7 +12,9 @@
 ## Skills
 
 ###BE
+
 <img src="https://img.shields.io/badge/springboot-{뱃지색깔}?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=springboot&logoColor=white"/>
+
 - 유저 단어기반 일기 생성 요청 api 개발
 - fastAPI 연동 하 생성된 일기 반환 api 개발
 - 유저 입력단어 저장 및 생성된 일기 저장 로직 구현
