@@ -1,6 +1,6 @@
 ## 단어로 완성되는 당신의 일기 - dAIry
 ### 2025 카카오테크 부트캠프 해커톤 카카오대표이사상(본상) 수상
-![KakaoTalk_Photo_2025-03-03-19-59-03 001](https://github.com/user-attachments/assets/86c56523-e92a-41ca-981d-11e74c4a4e0d)
+<img src="https://github.com/user-attachments/assets/86c56523-e92a-41ca-981d-11e74c4a4e0d" width="400">
 
 ## 참여
 |**BE gray.chang(장예훈)** / 팀장|**FE eden.lee(이윤주)**|**Cloud jacky.kim(김현식)**|
