@@ -2,7 +2,13 @@
 ### ⭐️2025 카카오테크 부트캠프 해커톤 구름대표이사상(본상) 수상⭐️
 <img src="https://github.com/user-attachments/assets/86c56523-e92a-41ca-981d-11e74c4a4e0d" width="400">
 
+## 시현 화면
+<img width="500" height="350" alt="스크린샷 2025-05-07 07 59 38" src="https://github.com/user-attachments/assets/f3cedaaa-9f24-4a1a-9ea9-7c7d71231979" />
+<img width="500" height="350" alt="스크린샷 2025-05-07 07 59 49" src="https://github.com/user-attachments/assets/2764b6ea-f781-4743-bda2-cdfd45ea1785" />
+
 ## 참여
+
+
 |**BE gray.chang(장예훈)** / 팀장|**FE eden.lee(이윤주)**|**Cloud jacky.kim(김현식)**|
 |:-:|:-:|:-:|
 |https://github.com/yhyh4420|https://github.com/Yunju07|https://github.com/Mr-Muji|
@@ -18,14 +24,3 @@
 - 유저 단어기반 일기 생성 요청 api 개발
 - fastAPI 연동 하 생성된 일기 반환 api 개발
 - 유저 입력단어 저장 및 생성된 일기 저장 로직 구현
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
